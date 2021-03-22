@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Egress.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Documents\Unity Projects\Egress\.idea\.idea.Egress\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
